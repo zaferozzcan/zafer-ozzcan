@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭GA--Software Engineer in Training 
+- 💬 Ask me about ...
 
 
 <!--
