@@ -43,7 +43,9 @@ h3 {
 
 #home-cover {
   height: 100%;
-  background-image: url("https://media.giphy.com/media/E1v4GJ5LkcPHa/giphy.gif");
+  /* background-image: url("https://media.giphy.com/media/E1v4GJ5LkcPHa/giphy.gif"); */
+  background-image: url("../img/moon.jpg");
+  background-size: cover;
 }
 
 #home-content-box {
